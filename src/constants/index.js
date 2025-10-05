@@ -53,6 +53,7 @@ export const PROJECTS = [
       "ExpressJs",
       "Redux",
     ],
+    link:"https://study-notion-frontend-theta-liard.vercel.app",
   },
   {
   title: "Vehiql – AI Car Marketplace",
