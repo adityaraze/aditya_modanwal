@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project2.webp";
 // import project3 from "../assets/projects/project-3.webp";
 // import project4 from "../assets/projects/project-4.webp";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL,and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Enthusiastic and detail-oriented Computer Science undergraduate with a strong command over programming fundamentals, data structures, and algorithms. Experienced in building full-stack web applications and writing clean, maintainable code. Driven by curiosity and problem-solving, I aim to grow as a software developer while contributing to impactful and collaborative projects.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
