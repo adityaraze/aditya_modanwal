@@ -68,7 +68,7 @@ export const PROJECTS = [
     "Gemini AI",
     "Arcjet",
   ],
-  link: "https://vehiql-ai.vercel.app", // replace with actual link if different
+  link: "https://vehicle-5.vercel.app/", // replace with actual link if different
   duration: "May 2025 - June 2025",
 },
   // {
