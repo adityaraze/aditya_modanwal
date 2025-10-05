@@ -16,7 +16,7 @@ const Project = () => {
                     initial={{opacity:0,x:-100}}
                     transition={{duration:1}}
                     className="w-full lg:w-1/4">
-                    <a href="https://study-notion-frontend-theta-liard.vercel.app/" target="_black">
+                    <a href={project.link} target="_black">
                     <img src={project.image}
                         width={250} height={250}
                         alt={project.title}
