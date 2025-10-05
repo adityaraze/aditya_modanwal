@@ -54,6 +54,22 @@ export const PROJECTS = [
       "Redux",
     ],
   },
+  {
+  title: "Vehiql – AI Car Marketplace",
+  image: project2,
+  description:
+    "Vehiql is a full-stack AI-powered car marketplace where users can browse, book test drives, and purchase vehicles. Integrated Gemini AI for automated car listing generation, cutting admin workload by ~50%. Implemented Clerk authentication and Supabase file storage to ensure secure and scalable platform usage.",
+  technologies: [
+    "Next.js",
+    "Prisma",
+    "Clerk",
+    "Supabase",
+    "Gemini AI",
+    "Arcjet",
+  ],
+  link: "https://vehiql-ai.vercel.app", // replace with actual link if different
+  duration: "May 2025 - June 2025",
+},
   // {
   //   title: "Task Management App",
   //   image: project2,
